@@ -1,0 +1,2 @@
+Features	Inertia	Silhouette	P-Value
+Al/Fe,Si/Fe,Ti/Fe,Cr/Ti,Ni/Ti	140892.0921	0.6717	1.3131e-60

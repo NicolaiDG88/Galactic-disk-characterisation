@@ -1,0 +1,2 @@
+Features	Inertia	Silhouette	P-Value
+Si/Fe,Zn/Fe,Na/Ti,Si/Ti,Ca/Ti	156486.1432	0.5345	1.8578e-104
